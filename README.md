@@ -1,5 +1,5 @@
 # 1. Thành viên nhóm: 
-## Tên nhóm: Yhoaivanhung
+## Tên nhóm: 4U
 ## Thiều Xuân Ý (Nhóm trưởng)
 ## Trần Nguyễn Minh Hoài
 ## Chu Bùi Khánh Vân
