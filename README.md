@@ -1,5 +1,5 @@
 # 1. Thành viên nhóm: 
-## Tên nhóm: U I A
+## Tên nhóm: u i a
 ## Thiều Xuân Ý (Nhóm trưởng)
 ## Trần Nguyễn Minh Hoài
 ## Chu Bùi Khánh Vân
