@@ -4,4 +4,4 @@
 ## Chu Bùi Khánh Vân
 ## Phạm Huỳnh Thanh Hưng
 # 2. Đề tài: 
-## Ứng dụng quản lý câu lạc bộ và sự kiện sinh viên trường Đại Học Nha Trang
+## Ứng dụng quản lý câu lạc bộ và sự kiện sinh viên 
